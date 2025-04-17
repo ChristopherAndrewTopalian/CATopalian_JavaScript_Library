@@ -21,7 +21,7 @@ A pure functional JavaScript Library that includes many useful functions.
 
 # Time
 
-[getYearMonthDay](src/js/time/getTime24.js)
+[getTime24](src/js/time/getTime24.js)
 
 ---
 
