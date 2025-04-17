@@ -9,6 +9,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getDateLongArray](src/js/date/getDateLongArray.js)
 
+[getDaysBetweenDates](src/js/date/getDaysBetweenDates.js)
+
 ---
 
 ### How to Download this App
