@@ -39,6 +39,12 @@ A pure functional JavaScript Library that includes many useful functions.
 
 ---
 
+# Info
+
+[getURL](src/js/info/getURL.js)
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
