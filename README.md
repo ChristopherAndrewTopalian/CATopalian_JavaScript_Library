@@ -27,6 +27,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getHours24](src/js/time/getHours24.js)
 
+[getMinutes](src/js/time/getMinutes.js)
+
 ---
 
 ### How to Download this App
