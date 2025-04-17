@@ -33,6 +33,12 @@ A pure functional JavaScript Library that includes many useful functions.
 
 ---
 
+# Date Time
+
+[getDateTime12](src/js/time/getDateTime12.js)
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
