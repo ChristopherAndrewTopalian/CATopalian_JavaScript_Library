@@ -26,6 +26,8 @@ A pure functional JavaScript Library that includes many useful functions.
 4. Extract All
 5. Double click the HTML file to start the App
 
+https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Library
+
 ---
 
 Happy Scripting :-)
