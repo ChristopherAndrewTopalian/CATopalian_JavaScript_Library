@@ -43,6 +43,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getURL](src/js/info/getURL.js)
 
+[getTitleOfPage](src/js/info/getTitleOfPage.js)
+
 ---
 
 ### How to Download this App
