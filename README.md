@@ -45,6 +45,9 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getTitleOfPage](src/js/info/getTitleOfPage.js)
 
+[howManySpecifiedElements](src/js/info/howManySpecifiedElements.js)
+
+
 ---
 
 ### How to Download this App
