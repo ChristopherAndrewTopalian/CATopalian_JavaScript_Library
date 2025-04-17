@@ -15,6 +15,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getMonthDayYear](src/js/date/getMonthDayYear.js)
 
+[getYearMonthDay](src/js/date/getYearMonthDay.js)
+
 ---
 
 ### How to Download this App
