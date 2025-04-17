@@ -13,6 +13,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getDaysInFebruary](src/js/date/getDaysInFebruary.js)
 
+[getMonthDayYear](src/js/date/getMonthDayYear.js)
+
 ---
 
 ### How to Download this App
