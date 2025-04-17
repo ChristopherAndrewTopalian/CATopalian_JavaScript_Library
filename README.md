@@ -29,6 +29,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getMinutes](src/js/time/getMinutes.js)
 
+[getSeconds](src/js/time/getSeconds.js)
+
 ---
 
 ### How to Download this App
