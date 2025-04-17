@@ -3,6 +3,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 ---
 
+# Date
+
 [getDateLong](src/js/date/getDateLong.js)
 
 [getDateLongArray](src/js/date/getDateLongArray.js)
