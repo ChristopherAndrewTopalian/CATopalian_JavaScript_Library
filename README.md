@@ -11,6 +11,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getDaysBetweenDates](src/js/date/getDaysBetweenDates.js)
 
+[getDaysInFebruary](src/js/date/getDaysInFebruary.js)
+
 ---
 
 ### How to Download this App
