@@ -5,11 +5,11 @@ function getTime12PST()
     let dateTime = new Date();
 
     // get UTC time and subtract 8 hours for PST
-    let pstDate = new Date(dateTime.toLocaleString("en-US", { timeZone: "America/Los_Angeles" }));
+    let pstDateTime = new Date(dateTime.toLocaleString("en-US", { timeZone: "America/Los_Angeles" }));
 
-    let hours = pstDate.getHours();
-    let minutes = pstDate.getMinutes();
-    let seconds = pstDate.getSeconds();
+    let hours = pstDateTime.getHours();
+    let minutes = pstDateTime.getMinutes();
+    let seconds = pstDateTime.getSeconds();
     let amOrPm;
 
     // am or pm
