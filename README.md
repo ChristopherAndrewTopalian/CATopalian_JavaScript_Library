@@ -31,6 +31,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getSeconds](src/js/time/getSeconds.js)
 
+[getTime12PST](src/js/time/getTime12PST.js)
+
 ---
 
 # Date Time
