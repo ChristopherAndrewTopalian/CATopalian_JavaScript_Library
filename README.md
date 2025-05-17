@@ -59,6 +59,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [calculateRange](src/js/math/statistics/calculateRange.js)
 
+[calculateSum](src/js/math/statistics/calculateSum.js)
+
 [calculateAverage](src/js/math/statistics/calculateAverage.js)
 
 [calculateMedian](src/js/math/statistics/calculateMedian.js)
