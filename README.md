@@ -49,6 +49,11 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [howManySpecifiedElements](src/js/info/howManySpecifiedElements.js)
 
+---
+
+# Statistics
+
+[findMax](src/js/math/statistics/findMax.js)
 
 ---
 
