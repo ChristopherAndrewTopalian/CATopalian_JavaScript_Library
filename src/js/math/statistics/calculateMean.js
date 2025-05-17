@@ -5,7 +5,7 @@ function calculateMean(numbers)
     // check if the input is missing or if the array is empty
     if (!numbers || numbers.length === 0)
     {
-        // can't calculate mean without numbers, return null
+        // no mean to calculate, return null
         return null;
     }
 
