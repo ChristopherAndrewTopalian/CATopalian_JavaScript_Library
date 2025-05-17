@@ -61,6 +61,10 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [calculateMean](src/js/math/statistics/calculateMean.js)
 
+[calculateMode](src/js/math/statistics/calculateMode.js)
+
+[calculateSingleMode](src/js/math/statistics/calculateSingleMode.js)
+
 ---
 
 ### How to Download this App
