@@ -1,10 +1,11 @@
-// define a function named findMax that takes an array of numbers as input
+// findMax.js
+
 function findMax(numbers)
 {
     // check if the input is missing or if the array is empty
     if (!numbers || numbers.length === 0)
     {
-        // nothing to return.
+        // nothing to return
         // list is empty or missing
         return null;
     }
@@ -32,7 +33,6 @@ function findMax(numbers)
 console.log(findMax([40, 30, 23, 45]));
 
 //----//
-
 
 /*
 45
