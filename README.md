@@ -55,6 +55,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [findMax](src/js/math/statistics/findMax.js)
 
+[calculateAverage](src/js/math/statistics/calculateAverage.js)
+
 ---
 
 ### How to Download this App
