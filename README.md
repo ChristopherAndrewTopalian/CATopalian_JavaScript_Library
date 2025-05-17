@@ -57,6 +57,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [calculateAverage](src/js/math/statistics/calculateAverage.js)
 
+[calculateMedian](src/js/math/statistics/calculateMedian.js)
+
 ---
 
 ### How to Download this App
