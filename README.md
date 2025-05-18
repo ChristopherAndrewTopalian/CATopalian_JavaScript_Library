@@ -105,6 +105,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [truncateText](src/js/text/truncateText.js)
 
+[swapCase](src/js/text/swapCase.js)
+
 ---
 
 ### How to Download this App
