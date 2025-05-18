@@ -91,6 +91,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [countConsonants](src/js/text/countConsonants.js)
 
+[removePunctuation](src/js/text/removePunctuation.js)
+
 ---
 
 ### How to Download this App
