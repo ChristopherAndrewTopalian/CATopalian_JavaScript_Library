@@ -125,6 +125,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [removeStopWords](src/js/text/nlp/removeStopWords.js)
 
+[stemWords](src/js/text/nlp/stemWords.js)
+
 ---
 
 ### How to Download this App
