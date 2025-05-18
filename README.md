@@ -121,6 +121,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [tokenizeWords](src/js/text/nlp/tokenizeWords.js)
 
+[tokenizeSentences](src/js/text/nlp/tokenizeSentences.js)
+
 ---
 
 ### How to Download this App
