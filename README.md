@@ -87,6 +87,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getInitials](src/js/text/getInitials.js)
 
+[countWords](src/js/text/countWords.js)
+
 ---
 
 ### How to Download this App
