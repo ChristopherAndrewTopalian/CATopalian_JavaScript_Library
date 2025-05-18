@@ -89,6 +89,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [countWords](src/js/text/countWords.js)
 
+[countConsonants](src/js/text/countConsonants.js)
+
 ---
 
 ### How to Download this App
