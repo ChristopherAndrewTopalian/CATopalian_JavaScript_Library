@@ -123,6 +123,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [tokenizeSentences](src/js/text/nlp/tokenizeSentences.js)
 
+[removeStopWords](src/js/text/nlp/removeStopWords.js)
+
 ---
 
 ### How to Download this App
