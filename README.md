@@ -101,6 +101,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [convertToSnakeCase](src/js/text/convertToSnakeCase.js)
 
+[removeExtraSpaces](src/js/text/removeExtraSpaces.js)
+
 ---
 
 ### How to Download this App
