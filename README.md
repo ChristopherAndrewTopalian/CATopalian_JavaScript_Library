@@ -17,6 +17,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getYearMonthDay](src/js/date/getYearMonthDay.js)
 
+[isLeapYear](src/js/date/isLeapYear.js)
+
 ---
 
 # Time
