@@ -65,8 +65,6 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [calculateMedian](src/js/math/statistics/calculateMedian.js)
 
-[calculateMean](src/js/math/statistics/calculateMean.js)
-
 [calculateMode](src/js/math/statistics/calculateMode.js)
 
 [calculateSingleMode](src/js/math/statistics/calculateSingleMode.js)
