@@ -85,6 +85,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [countVowels](src/js/text/countVowels.js)
 
+[getInitials](src/js/text/getInitials.js)
+
 ---
 
 ### How to Download this App
