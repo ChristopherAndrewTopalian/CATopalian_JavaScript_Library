@@ -113,7 +113,10 @@ console.log(lemmatizeWords(sentence));
 //----//
 
 /*
-["the", "people", "waited", "30", "minutes", "before", "running", "after", "eating", "their", "meals", "while", "going", "to", "the", "mall"]
+[
+    "the", "person", "waited", "30", "minutes", "before", "run", "after", "eat", "their", "meals", "while",
+    "go", "to", "the", "mall"
+]
 
 */
 
