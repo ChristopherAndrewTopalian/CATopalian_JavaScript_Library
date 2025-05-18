@@ -81,6 +81,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [countWordOccurrences](src/js/text/countWordOccurrences.js)
 
+[getWordFrequencies](src/js/text/getWordFrequencies.js)
+
 [reverseText](src/js/text/reverseText.js)
 
 [countVowels](src/js/text/countVowels.js)
@@ -114,7 +116,6 @@ A pure functional JavaScript Library that includes many useful functions.
 [getShortestWord](src/js/text/getShortestWord.js)
 
 [getAllShortestWords](src/js/text/getAllShortestWords.js)
-
 
 
 ---
