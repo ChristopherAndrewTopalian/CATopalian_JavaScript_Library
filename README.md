@@ -117,6 +117,9 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getAllShortestWords](src/js/text/getAllShortestWords.js)
 
+## NLP (Natural Language Processing)
+
+[tokenizeWords](src/js/text/nlp/tokenizeWords.js)
 
 ---
 
