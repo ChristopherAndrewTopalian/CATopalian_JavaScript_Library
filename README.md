@@ -111,6 +111,12 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getAllLongestWords](src/js/text/getAllLongestWords.js)
 
+[getShortestWord](src/js/text/getShortestWord.js)
+
+[getAllShortestWords](src/js/text/getAllShortestWords.js)
+
+
+
 ---
 
 ### How to Download this App
