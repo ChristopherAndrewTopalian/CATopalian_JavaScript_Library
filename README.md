@@ -103,6 +103,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [removeExtraSpaces](src/js/text/removeExtraSpaces.js)
 
+[truncateText](src/js/text/truncateText.js)
+
 ---
 
 ### How to Download this App

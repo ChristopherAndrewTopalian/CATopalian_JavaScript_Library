@@ -18,10 +18,10 @@ function removeExtraSpaces(text)
 
 //----//
 
-// "hello world"
+// hello world
 console.log(removeExtraSpaces("   hello     world   "));
 
-// "this is spaced out"
+// this is spaced out
 console.log(removeExtraSpaces("this  is   spaced   out"));
 
 //----//
