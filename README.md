@@ -121,6 +121,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getMostCommonWord](src/js/text/nlp/getMostCommonWord.js)
 
+[getMostCommonWords](src/js/text/nlp/getMostCommonWords.js)
+
 [tokenizeWords](src/js/text/nlp/tokenizeWords.js)
 
 [tokenizeSentences](src/js/text/nlp/tokenizeSentences.js)
