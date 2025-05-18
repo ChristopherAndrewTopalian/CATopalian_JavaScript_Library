@@ -107,6 +107,10 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [swapCase](src/js/text/swapCase.js)
 
+[getLongestWord](src/js/text/getLongestWord.js)
+
+[getAllLongestWords](src/js/text/getAllLongestWords.js)
+
 ---
 
 ### How to Download this App
