@@ -95,6 +95,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [capitalizeWords](src/js/text/capitalizeWords.js)
 
+[isPalindrome](src/js/text/isPalindrome.js)
+
 ---
 
 ### How to Download this App
