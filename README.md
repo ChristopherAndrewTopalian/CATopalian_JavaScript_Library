@@ -81,6 +81,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [countWordOccurrences](src/js/text/countWordOccurrences.js)
 
+[reverseText](src/js/text/reverseText.js)
+
 ---
 
 ### How to Download this App
