@@ -9,7 +9,7 @@ function isPalindrome(text)
         return false;
     }
 
-    // convert the text to lowercase and remove non-alphanumeric characters
+    // convert the text to lowercase and remove non alphanumeric characters
     let cleaned = text.toLowerCase().replace(/[^a-z0-9]/g, '');
 
     // reverse the cleaned string

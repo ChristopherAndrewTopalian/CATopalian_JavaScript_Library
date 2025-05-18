@@ -97,6 +97,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [isPalindrome](src/js/text/isPalindrome.js)
 
+[convertToCamelCase](src/js/text/convertToCamelCase.js)
+
 ---
 
 ### How to Download this App
