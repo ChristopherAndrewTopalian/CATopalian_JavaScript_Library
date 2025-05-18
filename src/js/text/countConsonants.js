@@ -33,11 +33,20 @@ function countConsonants(text)
 
 //----//
 
-console.log(countConsonants("hello world"));     // 7
-console.log(countConsonants("AEIOU"));           // 0
-console.log(countConsonants("BCDFG"));           // 5
-console.log(countConsonants("123!@#"));          // 0
-console.log(countConsonants("The quick fox"));   // 9
+
+console.log(countConsonants("hello world"));
+
+// 0
+console.log(countConsonants("AEIOU"));
+
+// 5
+console.log(countConsonants("BCDFG"));
+
+// 0
+console.log(countConsonants("123!@#"));
+
+// 9
+console.log(countConsonants("The quick fox"));
 
 //----//
 
