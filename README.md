@@ -99,6 +99,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [convertToCamelCase](src/js/text/convertToCamelCase.js)
 
+[convertToSnakeCase](src/js/text/convertToSnakeCase.js)
+
 ---
 
 ### How to Download this App
