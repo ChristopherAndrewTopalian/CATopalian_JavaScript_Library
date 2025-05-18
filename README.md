@@ -83,6 +83,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [reverseText](src/js/text/reverseText.js)
 
+[countVowels](src/js/text/countVowels.js)
+
 ---
 
 ### How to Download this App
