@@ -93,6 +93,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [removePunctuation](src/js/text/removePunctuation.js)
 
+[capitalizeWords](src/js/text/capitalizeWords.js)
+
 ---
 
 ### How to Download this App
