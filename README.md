@@ -127,6 +127,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [stemWords](src/js/text/nlp/stemWords.js)
 
+[lemmatizeWords](src/js/text/nlp/lemmatizeWords.js)
+
 ---
 
 ### How to Download this App
