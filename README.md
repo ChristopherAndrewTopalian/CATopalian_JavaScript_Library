@@ -19,6 +19,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [getDayOfWeek](src/js/date/getDayOfWeek.js)
 
+[getMonthName](src/js/date/getMonthName.js)
+
 [isLeapYear](src/js/date/isLeapYear.js)
 
 ---
