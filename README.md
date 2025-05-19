@@ -97,6 +97,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [averageSentenceLength](src/js/text/averageSentenceLength.js)
 
+[getAverageWordLength](src/js/text/getAverageWordLength.js)
+
 [removePunctuation](src/js/text/removePunctuation.js)
 
 [capitalizeWords](src/js/text/capitalizeWords.js)
