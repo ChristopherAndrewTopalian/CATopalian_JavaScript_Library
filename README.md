@@ -91,6 +91,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 [countWords](src/js/text/countWords.js)
 
+[countSentences](src/js/text/countSentences.js)
+
 [countConsonants](src/js/text/countConsonants.js)
 
 [removePunctuation](src/js/text/removePunctuation.js)
