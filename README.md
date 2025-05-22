@@ -5,17 +5,23 @@ A pure functional JavaScript Library that includes many useful functions.
 
 # Date
 
-[getDateLong](src/js/date/getDateLong.js)
+[getDateLong](src/js/date/getDateLong.js)  
+April 17, 2025, Thursday
 
-[getDateLongArray](src/js/date/getDateLongArray.js)
+[getDateLongArray](src/js/date/getDateLongArray.js)  
+April 17, 2025, Thursday
 
-[getDaysBetweenDates](src/js/date/getDaysBetweenDates.js)
+[getDaysBetweenDates](src/js/date/getDaysBetweenDates.js)  
+710 days
 
-[getDaysInFebruary](src/js/date/getDaysInFebruary.js)
+[getDaysInFebruary](src/js/date/getDaysInFebruary.js)  
+28 days
 
-[getMonthDayYear](src/js/date/getMonthDayYear.js)
+[getMonthDayYear](src/js/date/getMonthDayYear.js)  
+4/17/2025
 
-[getYearMonthDay](src/js/date/getYearMonthDay.js)
+[getYearMonthDay](src/js/date/getYearMonthDay.js)  
+2025/4/17
 
 [getDayOfWeek](src/js/date/getDayOfWeek.js)
 
