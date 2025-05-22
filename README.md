@@ -23,11 +23,14 @@ April 17, 2025, Thursday
 [getYearMonthDay](src/js/date/getYearMonthDay.js)  
 2025/4/17
 
-[getDayOfWeek](src/js/date/getDayOfWeek.js)
+[getDayOfWeek](src/js/date/getDayOfWeek.js)  
+Thursday
 
-[getMonthName](src/js/date/getMonthName.js)
+[getMonthName](src/js/date/getMonthName.js)  
+May
 
-[isLeapYear](src/js/date/isLeapYear.js)
+[isLeapYear](src/js/date/isLeapYear.js)  
+true
 
 ---
 
