@@ -51,24 +51,28 @@ true
 [getSeconds](src/js/time/getSeconds.js)  
 30
 
-[getTime12PST](src/js/time/getTime12PST.js)
+[getTime12PST](src/js/time/getTime12PST.js)  
 04:54:27 AM
 
 ---
 
 # Date Time
 
-[getDateTime12](src/js/dateTime/getDateTime12.js)
+[getDateTime12](src/js/dateTime/getDateTime12.js)  
+4/17/2025, 4:51:56 PM
 
 ---
 
 # Info
 
-[getURL](src/js/info/getURL.js)
+[getURL](src/js/info/getURL.js)  
+https: //www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard
 
-[getTitleOfPage](src/js/info/getTitleOfPage.js)
+[getTitleOfPage](src/js/info/getTitleOfPage.js)  
+Space Weather Enthusiasts Dashboard
 
 [howManySpecifiedElements](src/js/info/howManySpecifiedElements.js)
+195
 
 ---
 
