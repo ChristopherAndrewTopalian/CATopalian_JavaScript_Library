@@ -36,9 +36,11 @@ true
 
 # Time
 
-[getTime24](src/js/time/getTime24.js)
+[getTime24](src/js/time/getTime24.js)  
+16:19:14
 
-[getTime12](src/js/time/getTime12.js)
+[getTime12](src/js/time/getTime12.js)  
+04:30:09 PM
 
 [getHours24](src/js/time/getHours24.js)
 
