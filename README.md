@@ -42,19 +42,23 @@ true
 [getTime12](src/js/time/getTime12.js)  
 04:30:09 PM
 
-[getHours24](src/js/time/getHours24.js)
+[getHours24](src/js/time/getHours24.js)  
+16
 
-[getMinutes](src/js/time/getMinutes.js)
+[getMinutes](src/js/time/getMinutes.js)  
+43
 
-[getSeconds](src/js/time/getSeconds.js)
+[getSeconds](src/js/time/getSeconds.js)  
+30
 
 [getTime12PST](src/js/time/getTime12PST.js)
+04:54:27 AM
 
 ---
 
 # Date Time
 
-[getDateTime12](src/js/time/getDateTime12.js)
+[getDateTime12](src/js/dateTime/getDateTime12.js)
 
 ---
 
