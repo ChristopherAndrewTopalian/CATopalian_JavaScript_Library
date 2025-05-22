@@ -71,14 +71,15 @@ https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard
 [getTitleOfPage](src/js/info/getTitleOfPage.js)  
 Space Weather Enthusiasts Dashboard
 
-[howManySpecifiedElements](src/js/info/howManySpecifiedElements.js)
+[howManySpecifiedElements](src/js/info/howManySpecifiedElements.js)  
 195
 
 ---
 
 # Statistics
 
-[findMax](src/js/math/statistics/findMax.js)
+[findMax](src/js/math/statistics/findMax.js)  
+45
 
 [findMin](src/js/math/statistics/findMin.js)
 
