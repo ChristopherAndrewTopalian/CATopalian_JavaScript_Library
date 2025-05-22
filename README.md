@@ -66,7 +66,7 @@ true
 # Info
 
 [getURL](src/js/info/getURL.js)  
-https: //www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard
+https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard
 
 [getTitleOfPage](src/js/info/getTitleOfPage.js)  
 Space Weather Enthusiasts Dashboard
