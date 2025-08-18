@@ -180,13 +180,15 @@ Space Weather Enthusiasts Dashboard
 
 [videoForward](src/js/video/videoForward.js)  
 
-[videoCurrentTime](src/js/video/videoCurrentTime.js)  
+[videoCurrentTime](src/js/video/videoCurrentTimeGetGet.js)  
 
-[videoCurrentTimeRound](src/js/video/videoCurrentTimeRound.js)  
+[videoCurrentTimeRoundGet](src/js/video/videoCurrentTimeRoundGet.js)  
 
-[videoCurrentTimeToFixed](src/js/video/videoCurrentTimeToFixed.js)  
+[videoCurrentTimeToFixedGet](src/js/video/videoCurrentTimeToFixedGet.js)  
 
 [videoSpeedSet](src/js/video/videoSpeedSet.js)  
+
+[videoGetDuration](src/js/video/videoDurationGet.js)  
 
 ---
 

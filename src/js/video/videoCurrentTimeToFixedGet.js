@@ -1,22 +1,22 @@
-// videoCurrentTimeRound.js
+// videoCurrentTimeToFixedGet.js
 
-function videoCurrentTimeRound()
+function videoCurrentTimeToFixedGet()
 {
     let time = document.querySelector('video').currentTime;
 
-    let roundedTime = Math.round(time);
+    let formattedTime = time.toFixed(2);
 
-    return roundedTime;
+    return formattedTime;
 }
 
 //----//
 
-console.log(videoCurrentTimeRound());
+console.log(videoCurrentTimeToFixedGet());
 
 //----//
 
 /*
-737
+787.30
 */
 
 //----//

@@ -1,25 +1,21 @@
-// videoCurrentTimeToFixed.js
+// videoCurrentTimeGet.js
 
-function videoCurrentTimeToFixed()
+function videoCurrentTimeGet()
 {
     let time = document.querySelector('video').currentTime;
 
-    let formattedTime = time.toFixed(2);
-
-    return formattedTime;
+    return time;
 }
 
 //----//
 
-console.log(videoCurrentTimeToFixed());
+console.log(videoCurrentTimeGet());
 
 //----//
 
 /*
-787.30
+811.629062
 */
-
-//----//
 
 // Dedicated to God the Father  
 // All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025  
