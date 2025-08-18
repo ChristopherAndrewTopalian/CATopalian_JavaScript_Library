@@ -2,9 +2,7 @@
 
 function videoSpeedSet(whichAmount)
 {
-    let videoSpeed = parseFloat(whichAmount);
-
-    document.querySelector('video').playbackRate = videoSpeed;
+    document.querySelector('video').playbackRate = whichAmount;
 }
 
 videoSpeedSet(0.10);
