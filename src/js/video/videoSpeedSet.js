@@ -5,6 +5,8 @@ function videoSpeedSet(whichAmount)
     document.querySelector('video').playbackRate = whichAmount;
 }
 
+//----//
+
 videoSpeedSet(0.10);
 
 //----//
