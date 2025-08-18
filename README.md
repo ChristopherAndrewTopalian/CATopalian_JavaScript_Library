@@ -182,6 +182,10 @@ Space Weather Enthusiasts Dashboard
 
 [videoCurrentTime](src/js/video/videoCurrentTime.js)  
 
+[videoCurrentTimeRound](src/js/video/videoCurrentTimeRound.js)  
+
+[videoCurrentTimeToFixed](src/js/video/videoCurrentTimeToFixed.js)  
+
 ---
 
 ### How to Download this App
