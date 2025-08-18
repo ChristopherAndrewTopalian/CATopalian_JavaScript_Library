@@ -74,6 +74,9 @@ Space Weather Enthusiasts Dashboard
 [howManySpecifiedElements](src/js/info/howManySpecifiedElements.js)  
 195
 
+[howManyElements](src/js/info/howManyElements.js)  
+2731
+
 ---
 
 # Statistics
@@ -81,11 +84,14 @@ Space Weather Enthusiasts Dashboard
 [findMax](src/js/math/statistics/findMax.js)  
 45
 
-[findMin](src/js/math/statistics/findMin.js)
+[findMin](src/js/math/statistics/findMin.js)  
+23
 
-[calculateRange](src/js/math/statistics/calculateRange.js)
+[calculateRange](src/js/math/statistics/calculateRange.js)  
+22
 
-[calculateSum](src/js/math/statistics/calculateSum.js)
+[calculateSum](src/js/math/statistics/calculateSum.js)  
+138
 
 [calculateAverage](src/js/math/statistics/calculateAverage.js)
 
