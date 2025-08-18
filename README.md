@@ -180,7 +180,7 @@ Space Weather Enthusiasts Dashboard
 
 [videoForward](src/js/video/videoForward.js)  
 
-[videoCurrentTime](src/js/video/videoCurrentTimeGetGet.js)  
+[videoCurrentTimeGet](src/js/video/videoCurrentTimeGet.js)  
 
 [videoCurrentTimeRoundGet](src/js/video/videoCurrentTimeRoundGet.js)  
 
