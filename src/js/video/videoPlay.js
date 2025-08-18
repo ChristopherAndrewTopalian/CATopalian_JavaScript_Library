@@ -7,6 +7,8 @@ function videoPlay()
     theVideo.play();
 }
 
+//----//
+
 videoPlay();
 
 //----//

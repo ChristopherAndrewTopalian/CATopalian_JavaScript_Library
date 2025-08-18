@@ -7,6 +7,8 @@ function videoPause()
     theVideo.pause();
 }
 
+//----//
+
 videoPause();
 
 //----//
