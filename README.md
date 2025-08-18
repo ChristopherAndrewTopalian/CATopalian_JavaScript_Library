@@ -178,6 +178,8 @@ Space Weather Enthusiasts Dashboard
 
 [videoBack2](src/js/video/videoBack2.js)  
 
+[videoForward](src/js/video/videoForward.js)  
+
 ---
 
 ### How to Download this App
