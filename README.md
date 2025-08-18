@@ -192,6 +192,12 @@ Space Weather Enthusiasts Dashboard
 
 ---
 
+# Mouse
+
+[mousePosGet](src/js/mouse/mousePosGet.js)  
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
