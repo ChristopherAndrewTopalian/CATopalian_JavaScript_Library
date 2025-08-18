@@ -176,7 +176,7 @@ Space Weather Enthusiasts Dashboard
 
 [videoPause](src/js/video/videoPause.js)  
 
-[videoBack2](src/js/video/videoBack2.js)  
+[videoBack](src/js/video/videoBack2.js)  
 
 [videoForward](src/js/video/videoForward.js)  
 
