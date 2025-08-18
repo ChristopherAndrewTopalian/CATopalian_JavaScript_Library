@@ -172,7 +172,9 @@ Space Weather Enthusiasts Dashboard
 ---
 
 # Video
-[videoPlayer](src/js/video/videoPlay.js)
+[videoPlay](src/js/video/videoPlay.js)  
+
+[videoPause](src/js/video/videoPause.js)  
 
 
 ---
