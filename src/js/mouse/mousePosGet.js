@@ -12,6 +12,8 @@ function mousePosGet(event)
     return mousePos;
 }
 
+//----//
+
 // attach event listener
 window.addEventListener("click", function(event)
 {
