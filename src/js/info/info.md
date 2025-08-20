@@ -1,7 +1,7 @@
 # Info
 
 [getURL](getURL.js)  
-"https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard"
+https://www .swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard
 
 [getTitleOfPage](getTitleOfPage.js)  
 Space Weather Enthusiasts Dashboard
