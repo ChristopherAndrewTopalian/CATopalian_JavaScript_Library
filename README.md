@@ -5,6 +5,9 @@ A pure functional JavaScript Library that includes many useful functions.
 
 # Date
 
+[date](src/js/date/date.md)  
+Index  
+
 [getDateLong](src/js/date/getDateLong.js)  
 April 17, 2025, Thursday
 
