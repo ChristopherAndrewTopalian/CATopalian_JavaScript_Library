@@ -87,6 +87,9 @@ Space Weather Enthusiasts Dashboard
 
 # Statistics
 
+[Statistics](src/js/math/statistics/statistics.md)  
+Index  
+
 [findMax](src/js/math/statistics/findMax.js)  
 45
 
