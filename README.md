@@ -108,7 +108,13 @@ Index
 
 [calculateMode](src/js/math/statistics/calculateMode.js)
 
-[calculateSingleMode](src/js/math/statistics/calculateSingleMode.js)
+[calculateSingleMode](src/js/math/statistics/calculateSingleMode.js)  
+
+---
+
+# Random
+
+[randomNumberMinMax](src/js/math/random/randomNumberMinMax.js)  
 
 ---
 

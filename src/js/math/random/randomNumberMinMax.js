@@ -1,8 +1,10 @@
-// getRandomNumber.js
+// randomNumberMinMax.js
 
 function getRandomNumber(min, max)
 {
-    return Math.floor(Math.random() * (max - min + 1)) + min;
+    let randomNumber = Math.floor(Math.random() * (max - min + 1)) + min;
+
+    return randomNumber;
 }
 
 //----//
