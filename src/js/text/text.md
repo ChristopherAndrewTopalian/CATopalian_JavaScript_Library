@@ -4,6 +4,8 @@
 
 [randomMessage](random_text/randomMessage.js)  
 
+[getSelectedText](getSelectedText.js)  
+
 [countWordOccurrences](countWordOccurrences.js)
 
 [getWordFrequencies](getWordFrequencies.js)

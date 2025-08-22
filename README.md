@@ -146,6 +146,8 @@ Index
 
 [randomMessage](src/js/text/random_text/randomMessage.js)  
 
+[getSelectedText](src/js/text/getSelectedText.js)  
+
 [countWordOccurrences](src/js/text/countWordOccurrences.js)  
 
 [getWordFrequencies](src/js/text/getWordFrequencies.js)
