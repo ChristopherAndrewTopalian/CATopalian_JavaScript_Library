@@ -22,7 +22,10 @@ April 17, 2025, Thursday
 2025/4/17
 
 [getDayOfWeek](getDayOfWeek.js)  
-Thursday
+Thursday  
+
+[getDayOfMonth](getDayOfMonth.js)  
+22  
 
 [getMonthName](getMonthName.js)  
 May

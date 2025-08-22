@@ -41,6 +41,9 @@ April 17, 2025, Thursday
 [getDayOfWeek](src/js/date/getDayOfWeek.js)  
 Thursday
 
+[getDayOfMonth](src/js/date/getDayOfMonth.js)  
+22
+
 [getMonthName](src/js/date/getMonthName.js)  
 May
 

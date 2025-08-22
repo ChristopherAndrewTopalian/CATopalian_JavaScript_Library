@@ -1,22 +1,20 @@
-// getMonthNumber.js
+// getDayOfMonth.js
 
-function getMonthNumber()
+function getDayOfMonth()
 {
-    // getMonth() returns a 0 based index, so we add 1
+    let dayNumber = new Date().getDate();
 
-    let monthNumber = new Date().getMonth() + 1;
-
-    return monthNumber;
+    return dayNumber;
 }
 
 //----//
 
-console.log(getMonthNumber());
+console.log(getDayOfMonth());
 
 //----//
 
 /*
-8
+22
 */
 
 // Dedicated to God the Father
