@@ -1,15 +1,21 @@
-// videoSetTime.js
+// videoTimeGet.js
 
-function videoSetTime(whichSeconds)
+function videoTimeGet()
 {
-    document.querySelector('video').currentTime = whichSeconds;
+    let time = document.querySelector('video').currentTime;
+
+    return time;
 }
 
 //----//
 
-videoSetTime(60);
+console.log(videoTimeGet());
 
 //----//
+
+/*
+811.629062
+*/
 
 // Dedicated to God the Father  
 // All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025  

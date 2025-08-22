@@ -1,20 +1,27 @@
 # Video
+[Video](video.md)  
+Index
 
 [videoPlay](videoPlay.js)  
+Play
 
 [videoPause](videoPause.js)  
+Pause
 
 [videoBack](videoBack.js)  
+Back
 
 [videoForward](videoForward.js)  
+Forward
 
-[videoCurrentTimeGet](videoCurrentTimeGet.js)  
+[videoTimeGet](videoTimeGet.js)  
+50.145
 
-[videoCurrentTimeRoundGet](videoCurrentTimeRoundGet.js)  
+[videoTimeRndGet](videoTimeRndGet.js)  
 
-[videoCurrentTimeToFixedGet](videoCurrentTimeToFixedGet.js) 
+[videoTimeToFixedGet](videoTimeToFixedGet.js)  
 
-[videoSetTime](videoSetTime.js)  
+[videoTimeSet](videoTimeSet.js)  
 
 [videoSpeedSet](videoSpeedSet.js)  
 

@@ -1,23 +1,13 @@
-// videoCurrentTimeRoundGet.js
+// videoSetTime.js
 
-function videoCurrentTimeRoundGet()
+function videoTimeSet(whichSeconds)
 {
-    let time = document.querySelector('video').currentTime;
-
-    let roundedTime = Math.round(time);
-
-    return roundedTime;
+    document.querySelector('video').currentTime = whichSeconds;
 }
 
 //----//
 
-console.log(videoCurrentTimeRoundGet());
-
-//----//
-
-/*
-737
-*/
+videoTimeSet(60);
 
 //----//
 

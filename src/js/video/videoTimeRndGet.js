@@ -1,21 +1,25 @@
-// videoCurrentTimeGet.js
+// videoTimeRndGet.js
 
-function videoCurrentTimeGet()
+function videoTimeRndGet()
 {
     let time = document.querySelector('video').currentTime;
 
-    return time;
+    let roundedTime = Math.round(time);
+
+    return roundedTime;
 }
 
 //----//
 
-console.log(videoCurrentTimeGet());
+console.log(videoTimeRndGet());
 
 //----//
 
 /*
-811.629062
+737
 */
+
+//----//
 
 // Dedicated to God the Father  
 // All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025  

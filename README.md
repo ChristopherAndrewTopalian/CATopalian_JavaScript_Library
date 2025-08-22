@@ -191,20 +191,25 @@ Index
 Index
 
 [videoPlay](src/js/video/videoPlay.js)  
+Play
 
 [videoPause](src/js/video/videoPause.js)  
+Pause
 
 [videoBack](src/js/video/videoBack.js)  
+Back
 
 [videoForward](src/js/video/videoForward.js)  
+Forward
 
-[videoCurrentTimeGet](src/js/video/videoCurrentTimeGet.js)  
+[videoTimeGet](src/js/video/videoTimeGet.js)  
+50.145
 
-[videoCurrentTimeRoundGet](src/js/video/videoCurrentTimeRoundGet.js)  
+[videoTimeRndGet](src/js/video/videoTimeRndGet.js)  
 
-[videoCurrentTimeToFixedGet](src/js/video/videoCurrentTimeToFixedGet.js)  
+[videoTimeToFixedGet](src/js/video/videoTimeToFixedGet.js)  
 
-[videoSetTime](src/js/video/videoSetTime.js)  
+[videoTimeSet](src/js/video/videoTimeSet.js)  
 
 [videoSpeedSet](src/js/video/videoSpeedSet.js)  
 

@@ -1,6 +1,6 @@
-// videoCurrentTimeToFixedGet.js
+// videoTimeToFixedGet.js
 
-function videoCurrentTimeToFixedGet()
+function videoTimeToFixedGet()
 {
     let time = document.querySelector('video').currentTime;
 
@@ -11,7 +11,7 @@ function videoCurrentTimeToFixedGet()
 
 //----//
 
-console.log(videoCurrentTimeToFixedGet());
+console.log(videoTimeToFixedGet());
 
 //----//
 
