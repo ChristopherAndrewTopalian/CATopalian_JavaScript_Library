@@ -12,7 +12,9 @@
 
 [videoCurrentTimeRoundGet](videoCurrentTimeRoundGet.js)  
 
-[videoCurrentTimeToFixedGet](videoCurrentTimeToFixedGet.js)  
+[videoCurrentTimeToFixedGet](videoCurrentTimeToFixedGet.js) 
+
+[videoSetTime](videoSetTime.js)  
 
 [videoSpeedSet](videoSpeedSet.js)  
 

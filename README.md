@@ -204,6 +204,8 @@ Index
 
 [videoCurrentTimeToFixedGet](src/js/video/videoCurrentTimeToFixedGet.js)  
 
+[videoSetTime](src/js/video/videoSetTime.js)  
+
 [videoSpeedSet](src/js/video/videoSpeedSet.js)  
 
 [videoGetDuration](src/js/video/videoDurationGet.js)  
