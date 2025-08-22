@@ -27,6 +27,9 @@ Thursday
 [getMonthName](getMonthName.js)  
 May
 
+[getMonthNumber](getMonthNumber.js)  
+8
+
 [getYear](getYear.js)  
 2025
 
