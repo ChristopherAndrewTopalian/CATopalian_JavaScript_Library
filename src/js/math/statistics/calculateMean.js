@@ -5,7 +5,7 @@ function calculateMean(numbers)
     // check if the input is missing or if the array is empty
     if (!numbers || numbers.length === 0)
     {
-        // no average to calculate, return null
+        // no mean to calculate, return null
         return null;
     }
 
@@ -19,11 +19,11 @@ function calculateMean(numbers)
         sum = sum + numbers[i];
     }
 
-    // calculate the average by dividing the total sum by the number of items
-    let average = sum / numbers.length;
+    // calculate the mean by dividing the total sum by the number of items
+    let mean = sum / numbers.length;
 
-    // return the calculated average
-    return average;
+    // return the calculated mean
+    return mean;
 }
 
 //----//
