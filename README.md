@@ -7,7 +7,7 @@ A pure functional JavaScript Library that includes many useful functions.
 
 * [Info](src/js/info/info.md)  
 
-* [Statistics](src/js/math/statistics/statistics.md)  
+* [Math](src/js/math/math.md)  
 
 * [Text](src/js/text/text.md)  
 
