@@ -9,6 +9,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 ### [Statistics](src/js/math/statistics/statistics.md)  
 
+### [Text](src/js/text/text.md)  
+
 ### [Video](src/js/video/video.md)  
 
 ---
@@ -130,7 +132,7 @@ Index
 
 # Text
 
-[text](src/js/text/text.md)  
+[Text](src/js/text/text.md)  
 Index
 
 [countWordOccurrences](src/js/text/countWordOccurrences.js)  
