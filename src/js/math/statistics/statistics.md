@@ -12,7 +12,7 @@
 [calculateSum](calculateSum.js)  
 138
 
-[calculateAverage](calculateAverage.js)
+[calculateMean](calculateMean.js)
 
 [calculateMedian](calculateMedian.js)
 

@@ -114,7 +114,7 @@ Index
 [calculateSum](src/js/math/statistics/calculateSum.js)  
 138
 
-[calculateAverage](src/js/math/statistics/calculateAverage.js)
+[calculateMean](src/js/math/statistics/calculateMean.js)
 
 [calculateMedian](src/js/math/statistics/calculateMedian.js)
 

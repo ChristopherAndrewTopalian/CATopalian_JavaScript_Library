@@ -1,6 +1,6 @@
-// calculateAverage.js
+// calculateMean.js
 
-function calculateAverage(numbers)
+function calculateMean(numbers)
 {
     // check if the input is missing or if the array is empty
     if (!numbers || numbers.length === 0)
@@ -28,7 +28,7 @@ function calculateAverage(numbers)
 
 //----//
 
-console.log(calculateAverage([10, 20, 30, 40]));
+console.log(calculateMean([10, 20, 30, 40]));
 
 //----//
 
