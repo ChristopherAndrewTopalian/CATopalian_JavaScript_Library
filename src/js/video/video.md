@@ -33,6 +33,8 @@ Forward
 
 [videoLoopSet](videoLoopSet.js)  
 
+[videoVolumeGet](videoVolumeGet.js)  
+
 //----//
 
 // Dedicated to God the Father  

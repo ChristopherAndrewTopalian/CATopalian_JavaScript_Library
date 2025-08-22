@@ -238,6 +238,8 @@ Forward
 
 [videoLoopSet](src/js/video/videoLoopSet.js)  
 
+[videoVolumeGet](src/js/video/videoVolumeGet.js)  
+
 ---
 
 # Mouse
