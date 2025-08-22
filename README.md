@@ -236,6 +236,8 @@ Forward
 
 [videoMuteGet](src/js/video/videoMuteGet.js)  
 
+[videoLoopSet](src/js/video/videoLoopSet.js)  
+
 ---
 
 # Mouse
