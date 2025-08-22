@@ -187,6 +187,9 @@ Index
 ---
 
 # Video
+[Video](src/js/video/video.md)  
+Index
+
 [videoPlay](src/js/video/videoPlay.js)  
 
 [videoPause](src/js/video/videoPause.js)  
