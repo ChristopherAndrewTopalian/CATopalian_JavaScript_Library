@@ -15,9 +15,10 @@ Back
 Forward
 
 [videoTimeGet](videoTimeGet.js)  
-50.145
+811.629062
 
 [videoTimeRndGet](videoTimeRndGet.js)  
+737
 
 [videoTimeToFixedGet](videoTimeToFixedGet.js)  
 
