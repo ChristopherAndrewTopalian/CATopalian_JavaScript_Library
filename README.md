@@ -17,7 +17,7 @@ A pure functional JavaScript Library that includes many useful functions.
 
 # Date
 
-[date](src/js/date/date.md)  
+[Date](src/js/date/date.md)  
 Index  
 
 [getDateLong](src/js/date/getDateLong.js)  
@@ -80,7 +80,7 @@ true
 
 # Info
 
-[info](src/js/info/info.md)  
+[Info](src/js/info/info.md)  
 Index  
 
 [getURL](src/js/info/getURL.js)  
