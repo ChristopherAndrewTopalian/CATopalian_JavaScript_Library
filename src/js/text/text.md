@@ -2,6 +2,8 @@
 
 [NLP](nlp/nlp.md)  
 
+[randomMessage](random_text/randomMessage.js)  
+
 [countWordOccurrences](countWordOccurrences.js)
 
 [getWordFrequencies](getWordFrequencies.js)
