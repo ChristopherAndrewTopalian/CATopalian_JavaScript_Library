@@ -234,6 +234,8 @@ Forward
 
 [videoMuteSet](src/js/video/videoMuteSet.js)  
 
+[videoMuteGet](src/js/video/videoMuteGet.js)  
+
 ---
 
 # Mouse

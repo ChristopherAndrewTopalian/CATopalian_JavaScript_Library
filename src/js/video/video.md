@@ -29,6 +29,8 @@ Forward
 
 [videoMuteSet](videoMuteSet.js)  
 
+[videoMuteGet](videoMuteGet.js)  
+
 //----//
 
 // Dedicated to God the Father  
