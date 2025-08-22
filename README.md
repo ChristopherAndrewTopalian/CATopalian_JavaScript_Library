@@ -130,7 +130,10 @@ Index
 
 # Text
 
-[countWordOccurrences](src/js/text/countWordOccurrences.js)
+[text](src/js/text/text.md)  
+Index
+
+[countWordOccurrences](src/js/text/countWordOccurrences.js)  
 
 [getWordFrequencies](src/js/text/getWordFrequencies.js)
 
@@ -179,6 +182,8 @@ Index
 [getAllShortestWords](src/js/text/getAllShortestWords.js)
 
 ## NLP (Natural Language Processing)
+
+[NLP](src/js/text/nlp/nlp.md)  
 
 [getMostCommonWord](src/js/text/nlp/getMostCommonWord.js)
 
