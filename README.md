@@ -232,6 +232,8 @@ Forward
 
 [videoGetDuration](src/js/video/videoDurationGet.js)  
 
+[videoMuteSet](src/js/video/videoMuteSet.js)  
+
 ---
 
 # Mouse
