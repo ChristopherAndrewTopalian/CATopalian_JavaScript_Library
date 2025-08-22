@@ -1,5 +1,8 @@
 # Date
 
+[Date](date.md)  
+Index  
+
 [getDateLong](getDateLong.js)  
 April 17, 2025, Thursday
 
@@ -24,8 +27,11 @@ Thursday
 [getMonthName](getMonthName.js)  
 May
 
+[getYear](getYear.js)  
+2025
+
 [isLeapYear](isLeapYear.js)  
-true  
+true
 
 //----//
 

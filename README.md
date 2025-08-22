@@ -44,6 +44,9 @@ Thursday
 [getMonthName](src/js/date/getMonthName.js)  
 May
 
+[getYear](src/js/date/getYear.js)  
+2025
+
 [isLeapYear](src/js/date/isLeapYear.js)  
 true
 

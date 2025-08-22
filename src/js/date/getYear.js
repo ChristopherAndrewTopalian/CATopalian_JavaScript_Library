@@ -1,20 +1,20 @@
-// videoSpeedGet.js
+// getYear.js
 
-function videoSpeedGet(whichAmount)
+function getYear()
 {
-    let speed = document.querySelector('video').playbackRate;
+    let theYear = new Date().getFullYear();
 
-    return speed;
+    return theYear;
 }
 
 //----//
 
-videoSpeedGet();
+console.log(getYear());
 
 //----//
 
 /*
-0.55
+2025
 */
 
 //----//
