@@ -25,6 +25,8 @@ Forward
 
 [videoSpeedSet](videoSpeedSet.js)  
 
+[videoSpeedGet](videoSpeedGet.js)  
+
 [videoGetDuration](videoDurationGet.js)  
 
 [videoMuteSet](videoMuteSet.js)  

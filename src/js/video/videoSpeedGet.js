@@ -1,23 +1,21 @@
-// videoMuteGet.js
+// videoSpeedGet.js
 
-function videoMuteGet()
+function videoSpeedGet(whichAmount)
 {
-    let isMuted = document.querySelector('video').muted;
+    let speed = document.querySelector('video').playbackRate;
 
-    return isMuted;
+    return speed;
 }
 
 //----//
 
-videoMuteGet();
+videoSpeedGet();
 
 //----//
 
 /*
-true
+0.55
 */
-
-//----//
 
 // Dedicated to God the Father  
 // All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025  

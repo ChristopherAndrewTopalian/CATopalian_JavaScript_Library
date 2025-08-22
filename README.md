@@ -230,6 +230,8 @@ Forward
 
 [videoSpeedSet](src/js/video/videoSpeedSet.js)  
 
+[videoSpeedGet](src/js/video/videoSpeedGet.js)  
+
 [videoGetDuration](src/js/video/videoDurationGet.js)  
 
 [videoMuteSet](src/js/video/videoMuteSet.js)  
