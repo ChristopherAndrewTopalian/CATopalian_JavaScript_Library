@@ -3,15 +3,15 @@ A pure functional JavaScript Library that includes many useful functions.
 
 ---
 
-### [Date](src/js/date/date.md)  
+* [Date](src/js/date/date.md)  
 
-### [Info](src/js/info/info.md)  
+* [Info](src/js/info/info.md)  
 
-### [Statistics](src/js/math/statistics/statistics.md)  
+* [Statistics](src/js/math/statistics/statistics.md)  
 
-### [Text](src/js/text/text.md)  
+* [Text](src/js/text/text.md)  
 
-### [Video](src/js/video/video.md)  
+* [Video](src/js/video/video.md)  
 
 ---
 
