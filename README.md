@@ -265,7 +265,12 @@ Forward
 
 # Style
 
+[Style](src/js/style/style.md)  
+Index
+
 [styleLinks](src/js/style/styleLinks.js)  
+
+[styleSpecifiedElements](src/js/style/styleSpecifiedElements.js)  
 
 ---
 
