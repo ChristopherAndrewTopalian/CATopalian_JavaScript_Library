@@ -272,6 +272,8 @@ Index
 
 [styleElementType](src/js/style/styleElementType.js)  
 
+[styleTextColor](src/js/style/styleTextColor.js)  
+
 ---
 
 ### How to Download this App

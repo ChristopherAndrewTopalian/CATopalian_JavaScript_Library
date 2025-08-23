@@ -1,10 +1,17 @@
-# Style
+// styleTextColor.js
 
-[styleLinks](styleLinks.js)  
+function styleTextColor(whichColor)
+{
+    let ourStyle = document.createElement("style");
 
-[styleElementType](styleElementType.js)  
+    ourStyle.textContent = "body * { color: " + whichColor + " !important; }";
 
-[styleTextColor](styleTextColor.js)  
+    document.head.append(ourStyle);
+}
+
+//----//
+
+styleTextColor("aqua");
 
 //----//
 
