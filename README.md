@@ -13,6 +13,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 * [Video](src/js/video/video.md)  
 
+* [Image](src/js/image/image.md)  
+
 ---
 
 # Date
