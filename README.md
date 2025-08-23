@@ -15,6 +15,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 * [Image](src/js/image/image.md)  
 
+* [Style](src/js/style/style.md)  
+
 ---
 
 # Date
