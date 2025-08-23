@@ -2,7 +2,7 @@
 
 [styleLinks](styleLinks.js)  
 
-[styleSpecifiedElements](styleSpecifiedElements.js)  
+[styleElementType](styleElementType.js)  
 
 //----//
 

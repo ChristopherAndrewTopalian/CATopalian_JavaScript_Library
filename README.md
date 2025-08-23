@@ -270,7 +270,7 @@ Index
 
 [styleLinks](src/js/style/styleLinks.js)  
 
-[styleSpecifiedElements](src/js/style/styleSpecifiedElements.js)  
+[styleElementType](src/js/style/styleElementType.js)  
 
 ---
 

@@ -1,6 +1,6 @@
-// styleSpecifiedElements.js
+// styleElementType.js
 
-function styleSpecifiedElements(whichElementType, whichBgColor, whichTextColor)
+function styleElementType(whichElementType, whichBgColor, whichTextColor)
 {
     let elements = document.getElementsByTagName(whichElementType);
 
@@ -12,7 +12,7 @@ function styleSpecifiedElements(whichElementType, whichBgColor, whichTextColor)
     }
 }
 
-styleSpecifiedElements('a', 'rgb(0, 255, 255)', 'black');
+styleElementType('a', 'rgb(0, 255, 255)', 'black');
 
 //----//
 
