@@ -4,6 +4,8 @@
 
 [imgGrayScaleSet](imgGrayScaleSet.js)  
 
+[imgAllFiltersSet](imgAllFiltersSet.js)  
+
 //----//
 
 // Dedicated to God the Father  

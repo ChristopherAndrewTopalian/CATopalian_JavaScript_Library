@@ -284,6 +284,8 @@ Index
 
 [imgGrayScaleSet](src/js/image/imgGrayScaleSet.js)  
 
+[imgAllFiltersSet](src/js/image/imgAllFiltersSet.js)  
+
 ---
 
 ### How to Download this App
