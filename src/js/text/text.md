@@ -6,6 +6,8 @@
 
 [getSelectedText](getSelectedText.js)  
 
+[getSelectedTextMouseUp](getSelectedTextMouseUp.js)  
+
 [countWordOccurrences](countWordOccurrences.js)
 
 [getWordFrequencies](getWordFrequencies.js)
