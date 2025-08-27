@@ -154,6 +154,8 @@ Index
 
 [getSelectedTextMouseUp](src/js/text/getSelectedTextMouseUp.js)  
 
+[getSelectedTextMouseUpRemovable](src/js/text/getSelectedTextMouseUpRemovable.js)  
+
 [countWordOccurrences](src/js/text/countWordOccurrences.js)  
 
 [getWordFrequencies](src/js/text/getWordFrequencies.js)
