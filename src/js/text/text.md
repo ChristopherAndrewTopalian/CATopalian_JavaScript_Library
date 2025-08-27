@@ -8,6 +8,8 @@
 
 [getSelectedTextMouseUp](getSelectedTextMouseUp.js)  
 
+[getSelectedTextMouseUpRemovable](getSelectedTextMouseUpRemovable.js)  
+
 [countWordOccurrences](countWordOccurrences.js)
 
 [getWordFrequencies](getWordFrequencies.js)
