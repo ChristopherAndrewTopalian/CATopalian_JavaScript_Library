@@ -21,6 +21,9 @@ isEven(5), returns, false
 [isOdd(n)](isOdd.js)  
 isOdd(5), returns, true
 
+[lcd(n)](lcd.js)  
+lcd(8, 10), returns, 40
+
 //----//
 
 // Dedicated to God the Father  

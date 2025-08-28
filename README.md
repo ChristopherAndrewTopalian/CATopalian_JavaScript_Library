@@ -138,6 +138,9 @@ isEven(5), returns, false
 [isOdd(n)](src/js/math/arithmetic/isOdd.js)  
 isOdd(5), returns, true
 
+[lcd(n)](src/js/math/arithmetic/lcd.js)  
+lcd(8, 10), returns, 40
+
 # Statistics
 
 [Statistics](src/js/math/statistics/statistics.md)  
