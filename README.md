@@ -141,6 +141,12 @@ isOdd(5), returns, true
 [lcd(n)](src/js/math/arithmetic/lcd.js)  
 lcd(8, 10), returns, 40
 
+[sum(a, b)](src/js/math/arithmetic/sum.js)  
+sum(10, 7), returns, 17
+
+[product(a, b)](src/js/math/arithmetic/product.js)  
+product(4, 4), returns, 16
+
 # Statistics
 
 [Statistics](src/js/math/statistics/statistics.md)  
