@@ -125,6 +125,10 @@ gcd(5, 10), returns, 5
 least common multiple 
 lcm(4, 8), returns, 8
 
+[factorial(n)](src/js/math/arithmetic/factorial.js)  
+computes the factorial of a number  
+factorial(8), returns, 40320
+
 
 # Statistics
 
