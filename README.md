@@ -110,6 +110,13 @@ Space Weather Enthusiasts Dashboard
 
 ---
 
+# Math
+
+# Arithmetic
+[isPrime](src/js/math/arithmetic/isPrime.js)  
+isPrime(5), returns, true  
+
+
 # Statistics
 
 [Statistics](src/js/math/statistics/statistics.md)  

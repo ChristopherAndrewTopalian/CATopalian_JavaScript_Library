@@ -1,12 +1,6 @@
-# Math
+# Arithmetic 
 
-[Random](random/random.md)  
-
-[Statistics](statistics/statistics.md)  
-
-[Arithmetic](arithmetic/arithmetic.md)  
-
-[isPrime](src/js/math/arithmetic/isPrime.js)  
+[isPrime](isPrime.js)  
 isPrime(5), returns, true  
 
 //----//
