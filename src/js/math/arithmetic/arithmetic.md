@@ -15,6 +15,9 @@ lcm(4, 8), returns, 8
 computes the factorial of a number  
 factorial(8), returns, 40320
 
+[isEven(n)](isEven.js)  
+isEven(5), returns, false
+
 //----//
 
 // Dedicated to God the Father  
