@@ -1,11 +1,31 @@
-# Arithmetic 
+// gcd.js
 
-[isPrime](isPrime.js)  
-isPrime(5), returns, true  
+function gcd(a, b)
+{
+    while (b !== 0)
+    {
+        let temp = b;
 
-[gcd](gcd.js)  
-greatest common denominator  
-gcd(5, 10), returns, 5
+        b = a % b;
+
+        a = temp;
+    }
+    return a;
+}
+
+//----//
+
+console.log(gcd(5, 10));
+
+//----//
+
+/*
+5
+*/
+
+//----//
+
+// computes the greatest common divisor of two numbers
 
 //----//
 
