@@ -1,9 +1,14 @@
 // isEven.js
 
+// checks if a number n is even
 function isEven(n)
 {
+    // % 2 gives the remainder after dividing by 2
+    // even numbers leave a remainder of 0
+    // so n % 2 === 0 is true only for even numbers
     let result = n % 2 === 0;
 
+    // return the boolean result
     return result;
 }
 
