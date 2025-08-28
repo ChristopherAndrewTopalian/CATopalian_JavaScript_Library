@@ -6,9 +6,6 @@
 
 [Arithmetic](arithmetic/arithmetic.md)  
 
-[isPrime](src/js/math/arithmetic/isPrime.js)  
-isPrime(5), returns, true  
-
 //----//
 
 // Dedicated to God the Father  
