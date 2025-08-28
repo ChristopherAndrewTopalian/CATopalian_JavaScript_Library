@@ -18,6 +18,9 @@ factorial(8), returns, 40320
 [isEven(n)](isEven.js)  
 isEven(5), returns, false
 
+[isOdd(n)](isOdd.js)  
+isOdd(5), returns, true
+
 //----//
 
 // Dedicated to God the Father  

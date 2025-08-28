@@ -1,25 +1,25 @@
-// isEven.js
+// isOdd.js
 
-function isEven(n)
+function isOdd(n)
 {
-    let result = n % 2 === 0;
+    let result = n % 1 === 0;
 
     return result;
 }
 
 //----//
 
-console.log(isEven(5));
+console.log(isOdd(5));
 
 //----//
 
 /*
-false
+true
 */
 
 //----//
 
-// checks if a number is even
+// checks if a number is odd
 
 //----//
 

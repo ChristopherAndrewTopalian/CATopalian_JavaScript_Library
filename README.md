@@ -135,6 +135,9 @@ factorial(8), returns, 40320
 [isEven(n)](src/js/math/arithmetic/isEven.js)  
 isEven(5), returns, false
 
+[isOdd(n)](src/js/math/arithmetic/isOdd.js)  
+isOdd(5), returns, true
+
 # Statistics
 
 [Statistics](src/js/math/statistics/statistics.md)  
