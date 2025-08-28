@@ -14,6 +14,7 @@ function isEven(n)
 
 //----//
 
+// example usage: check if 5 is even
 console.log(isEven(5));
 
 //----//

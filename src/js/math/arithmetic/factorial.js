@@ -24,6 +24,7 @@ function factorial(n)
 
 //----//
 
+// example usage: factorial of 8
 console.log(factorial(8));
 
 //----//
