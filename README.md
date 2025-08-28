@@ -114,14 +114,14 @@ Space Weather Enthusiasts Dashboard
 
 # Arithmetic 
 
-[isPrime](src/js/math/arithmetic/isPrime.js)  
+[isPrime(n)](src/js/math/arithmetic/isPrime.js)  
 isPrime(5), returns, true  
 
-[gcd](src/js/math/arithmetic/gcd.js)  
+[gcd(a, b)](src/js/math/arithmetic/gcd.js)  
 greatest common denominator  
 gcd(5, 10), returns, 5
 
-[lcm](src/js/math/arithmetic/lcm.js)  
+[lcm(n)](src/js/math/arithmetic/lcm.js)  
 least common multiple 
 lcm(4, 8), returns, 8
 

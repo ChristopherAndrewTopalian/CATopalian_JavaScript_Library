@@ -1,15 +1,19 @@
 # Arithmetic 
 
-[isPrime](isPrime.js)  
+[isPrime(n)](isPrime.js)  
 isPrime(5), returns, true  
 
-[gcd](gcd.js)  
+[gcd(a, b)](gcd.js)  
 greatest common denominator  
 gcd(5, 10), returns, 5
 
-[lcm](lcm.js)  
+[lcm(n)](lcm.js)  
 least common multiple 
-lcm(4, 8), returns, 8
+lcm(4, 8), returns, 8  
+
+[factorial](factorial.js)  
+computes the factorial of a number  
+factorial(8), returns, 40320
 
 //----//
 
