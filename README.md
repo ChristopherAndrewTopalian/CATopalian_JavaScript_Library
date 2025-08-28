@@ -114,6 +114,9 @@ Space Weather Enthusiasts Dashboard
 
 # Arithmetic 
 
+[Arithmetic](src/js/math/arithmetic/arithmetic.md)  
+Index
+
 [isPrime(n)](src/js/math/arithmetic/isPrime.js)  
 isPrime(5), returns, true  
 
