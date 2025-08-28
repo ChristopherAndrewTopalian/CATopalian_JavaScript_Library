@@ -22,7 +22,6 @@ function gcd(a, b)
 
 //----//
 
-// example usage: GCD of 5 and 10
 console.log(gcd(5, 10));
 
 //----//
