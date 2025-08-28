@@ -30,6 +30,9 @@ sum(10, 7), returns, 17
 [product(a, b)](product.js)  
 prodcut(4, 4), returns, 16
 
+[power(a, b)](power.js)  
+power(2, 3), returns, 8
+
 //----//
 
 // Dedicated to God the Father  

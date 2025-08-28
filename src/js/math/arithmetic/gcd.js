@@ -39,7 +39,6 @@ console.log(gcd(5, 10));
 
 // computes the greatest common divisor (GCD) of two integers a and b
 
-
 //----//
 
 // Dedicated to God the Father  

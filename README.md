@@ -147,6 +147,9 @@ sum(10, 7), returns, 17
 [product(a, b)](src/js/math/arithmetic/product.js)  
 product(4, 4), returns, 16
 
+[power(a, b)](src/js/math/arithmetic/power.js)  
+power(2, 3), returns, 8
+
 # Statistics
 
 [Statistics](src/js/math/statistics/statistics.md)  
