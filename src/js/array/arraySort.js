@@ -1,20 +1,20 @@
 // arraySort.js
 
-// sorts an array of numbers in ascending or descending order based on the ascending parameter
+// sorts an array of numbers in whichDirection or descending order based on the whichDirection parameter
 
 // define a sample array of numbers
 let numbers = [4, 875, 23, 543, 12];
 
-// function to sort an array in either ascending or descending order
-function arraySort(whichArray, ascending)
+// function to sort an array in either whichDirection or descending order
+function arraySort(whichArray, whichDirection)
 {
     // .slice() creates a shallow copy so the original array is not modified
     // .sort() sorts the array
     let sortedArray = whichArray.slice().sort(function(a, b)
     {
-        // if ascending is true, subtract a from b for numerical ascending sort
-        // if ascending is false, subtract b from a for numerical descending sort
-        if (ascending)
+        // if whichDirection is true, subtract a from b for numerical whichDirection sort
+        // if whichDirection is false, subtract b from a for numerical descending sort
+        if (whichDirection)
         {
             return a - b;
         }
@@ -30,7 +30,7 @@ function arraySort(whichArray, ascending)
 
 //----//
 
-// call the function with ascending order
+// call the function with whichDirection order
 console.log(arraySort(numbers, true));
 
 //----//
