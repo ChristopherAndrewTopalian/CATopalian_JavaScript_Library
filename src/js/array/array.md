@@ -8,6 +8,8 @@
 
 [arraySum](arraySum.js)  
 
+[arrayProduct](arrayProduct.js)  
+
 [arrayAverage](arrayAverage.js)  
 
 [arrayMax](arrayMax.js)  

@@ -350,6 +350,8 @@ Index
 
 [arraySum](src/js/array/arraySum.js)  
 
+[arrayProduct](src/js/array/arrayProduct.js)  
+
 [arrayAverage](src/js/array/arrayAverage.js)  
 
 [arrayMax](src/js/array/arrayMax.js)  
