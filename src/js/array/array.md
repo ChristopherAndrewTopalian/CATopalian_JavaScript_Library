@@ -8,6 +8,8 @@
 
 [arraySum](arraySum.js)  
 
+[arrayAverage](arrayAverage.js)  
+
 //----//
 
 // Dedicated to God the Father  

@@ -350,6 +350,8 @@ Index
 
 [arraySum](src/js/array/arraySum.js)  
 
+[arrayAverage](src/js/array/arrayAverage.js)  
+
 ---
 
 ### How to Download this App
