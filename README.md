@@ -346,6 +346,8 @@ Index
 
 [randomArrayElement](src/js/array/randomArrayElement.js)  
 
+[shuffleArray](src/js/array/shuffleArray.js)  
+
 ---
 
 ### How to Download this App

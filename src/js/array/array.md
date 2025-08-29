@@ -4,6 +4,8 @@
 
 [randomArrayElement](randomArrayElement.js)  
 
+[shuffleArray](shuffleArray.js)  
+
 //----//
 
 // Dedicated to God the Father  
