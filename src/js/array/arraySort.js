@@ -16,10 +16,14 @@ function arraySort(whichArray, whichDirection)
         // if whichDirection is false, subtract b from a for numerical descending sort
         if (whichDirection)
         {
+            // if whichDirection is true, sort in ascending order
+            // subtract a from b: negative result keeps a before b, positive swaps a and b
             return a - b;
         }
         else
         {
+            // if whichDirection is false, sort in descending order
+            // subtract b from a: negative result keeps b before a, positive swaps b and a
             return b - a;
         }
     });
@@ -54,6 +58,8 @@ console.log(arraySort(numbers, false));
 
 // print the original array to show it is unchanged
 console.log(numbers);
+
+//----//
 
 /*
 [4, 875, 23, 543, 12]
