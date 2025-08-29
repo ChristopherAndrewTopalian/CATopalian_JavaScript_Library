@@ -17,6 +17,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 * [Style](src/js/style/style.md)  
 
+* [Array](src/js/array/array.md)  
+
 ---
 
 # Date
@@ -341,6 +343,8 @@ Index
 Index
 
 [isInArray](src/js/array/isInArray.js)  
+
+[randomArrayElement](src/js/array/randomArrayElement.js)  
 
 ---
 

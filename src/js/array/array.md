@@ -2,6 +2,8 @@
 
 [isInArray](isInArray.js)  
 
+[randomArrayElement](randomArrayElement.js)  
+
 //----//
 
 // Dedicated to God the Father  
