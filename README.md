@@ -352,6 +352,8 @@ Index
 
 [arrayAverage](src/js/array/arrayAverage.js)  
 
+[arrayMax](src/js/array/arrayMax.js)  
+
 ---
 
 ### How to Download this App

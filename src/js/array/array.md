@@ -10,6 +10,8 @@
 
 [arrayAverage](arrayAverage.js)  
 
+[arrayMax](arrayMax.js)  
+
 //----//
 
 // Dedicated to God the Father  
