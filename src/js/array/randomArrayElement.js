@@ -3,14 +3,14 @@
 //----//
 
 // array of items we want to pick from randomly
-let sampleArray = [
+let ourNumbers = [
     4, 875, 23, 543, 12
 ];
 
 //----//
 
 // function to get a random element from an array
-function getRandomArrayElement(whichArray)
+function randomArrayElement(whichArray)
 {
     // get a random index from 0 to array length - 1
     let randomIndex = Math.floor(Math.random() * whichArray.length);
@@ -28,7 +28,7 @@ function getRandomArrayElement(whichArray)
 //----//
 
 // call the function and pass our array
-console.log(getRandomArrayElement(sampleArray));
+console.log(randomArrayElement(ourNumbers));
 
 //----//
 
