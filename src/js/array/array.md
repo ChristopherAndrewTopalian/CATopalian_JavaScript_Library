@@ -6,6 +6,8 @@
 
 [shuffleArray](shuffleArray.js)  
 
+[arraySum](arraySum.js)  
+
 //----//
 
 // Dedicated to God the Father  

@@ -348,6 +348,8 @@ Index
 
 [shuffleArray](src/js/array/shuffleArray.js)  
 
+[arraySum](src/js/array/arraySum.js)  
+
 ---
 
 ### How to Download this App
