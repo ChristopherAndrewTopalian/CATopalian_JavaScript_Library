@@ -358,6 +358,10 @@ Index
 
 [arrayMin](src/js/array/arrayMin.js)  
 
+[arrayReverse](src/js/array/arrayReverse.js)  
+
+[arrayReverseManual](src/js/array/arrayReverseManual.js)  
+
 ---
 
 ### How to Download this App

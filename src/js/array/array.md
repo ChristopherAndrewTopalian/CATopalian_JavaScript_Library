@@ -16,6 +16,10 @@
 
 [arrayMin](arrayMin.js)  
 
+[arrayReverse](arrayReverse.js)  
+
+[arrayReverseManual](arrayReverseManual.js)  
+
 //----//
 
 // Dedicated to God the Father  
