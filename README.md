@@ -179,7 +179,9 @@ Index
 
 # Random
 
-[randomNumberMinMax](src/js/math/random/randomNumberMinMax.js)  
+[randomIntMinMax](src/js/math/random/randomIntMinMax.js)  
+
+[randomFloatMinMax](src/js/math/random/randomFloatMinMax.js)  
 
 ---
 
@@ -331,6 +333,14 @@ Index
 [imgGrayScaleSet](src/js/image/imgGrayScaleSet.js)  
 
 [imgAllFiltersSet](src/js/image/imgAllFiltersSet.js)  
+
+---
+
+# Array
+[array](src/js/array/array.md)  
+Index
+
+[isInArray](src/js/array/isInArray.js)  
 
 ---
 

@@ -1,6 +1,8 @@
 # Random
 
-[randomNumberMinMax](randomNumberMinMax.js)  
+[randomIntMinMax](randomIntMinMax.js)  
+
+[randomFloatMinMax](randomFloatMinMax.js)  
 
 ---
 
