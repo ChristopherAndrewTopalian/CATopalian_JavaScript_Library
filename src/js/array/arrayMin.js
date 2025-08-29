@@ -1,41 +1,41 @@
-// arrayMax.js
+// arrayMin.js
 
-// array of numbers we want to find the maximum of
+// array of numbers we want to find the minimum of
 let ourNumbers = [
     4, 875, 23, 543, 12
 ];
 
 //----//
 
-// function to find the largest number in an array
-function arrayMax(whichArray)
+// function to find the smallest number in an array
+function arrayMin(whichArray)
 {
-    // assume the first element is the largest
-    let max = whichArray[0];
+    // assume the first element is the smallest
+    let min = whichArray[0];
 
     // loop through the array to compare each element
     for (let i = 1; i < whichArray.length; i++)
     {
-        if (whichArray[i] > max)
+        if (whichArray[i] < min)
         {
-            // update max if current element is larger
-            max = whichArray[i];
+            // update min if current element is smaller
+            min = whichArray[i];
         }
     }
 
-    // return the largest number
-    return max;
+    // return the smallest number
+    return min;
 }
 
 //----//
 
 // call the function and pass our array
-console.log(arrayMax(ourNumbers));
+console.log(arrayMin(ourNumbers));
 
 //----//
 
 /*
-875
+4
 */
 
 //----//

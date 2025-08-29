@@ -12,6 +12,8 @@
 
 [arrayMax](arrayMax.js)  
 
+[arrayMin](arrayMin.js)  
+
 //----//
 
 // Dedicated to God the Father  

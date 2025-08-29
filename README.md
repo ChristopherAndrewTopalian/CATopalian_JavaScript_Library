@@ -354,6 +354,8 @@ Index
 
 [arrayMax](src/js/array/arrayMax.js)  
 
+[arrayMin](src/js/array/arrayMin.js)  
+
 ---
 
 ### How to Download this App
