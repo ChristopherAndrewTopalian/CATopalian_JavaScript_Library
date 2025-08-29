@@ -20,6 +20,12 @@
 
 [arrayReverseManual](arrayReverseManual.js)  
 
+[arraySort](arraySort.js)  
+
+[arraySortAscending](arraySortAscending.js)  
+
+[arraySortDescending](arraySortDescending.js)  
+
 //----//
 
 // Dedicated to God the Father  

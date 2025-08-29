@@ -362,6 +362,12 @@ Index
 
 [arrayReverseManual](src/js/array/arrayReverseManual.js)  
 
+[arraySort](src/js/array/arraySort.js)  
+
+[arraySortAscending](src/js/array/arraySortAscending.js)  
+
+[arraySortDescending](src/js/array/arraySortDescending.js)  
+
 ---
 
 ### How to Download this App
