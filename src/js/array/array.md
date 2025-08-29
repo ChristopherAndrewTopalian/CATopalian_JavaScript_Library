@@ -26,6 +26,8 @@
 
 [arraySortDescending](arraySortDescending.js)  
 
+[arrayUnique](arrayUnique.js)  
+
 //----//
 
 // Dedicated to God the Father  

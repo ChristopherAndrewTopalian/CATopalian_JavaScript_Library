@@ -368,6 +368,8 @@ Index
 
 [arraySortDescending](src/js/array/arraySortDescending.js)  
 
+[arrayUnique](src/js/array/arrayUnique.js)  
+
 ---
 
 ### How to Download this App
