@@ -2,7 +2,9 @@
 
 ## Rectangle
 
-[rectangleArea](area/rectangle/rectangleArea.js)  
+[rectangleArea](rectangle/rectangleArea.js)  
+
+[rectanglePerimeter](rectangle/rectanglePerimeter.js)  
 
 ---
 

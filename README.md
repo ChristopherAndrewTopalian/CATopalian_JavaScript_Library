@@ -378,9 +378,9 @@ Index
 
 ## Rectangle
 
-[rectangleArea](src/js/geometry/area/rectangle/rectangleArea.js)  
+[rectangleArea](src/js/geometry/rectangle/rectangleArea.js)  
 
-[rectanglePerimeter](src/js/geometry/area/rectangle/rectanglePerimeter.js)  
+[rectanglePerimeter](src/js/geometry/rectangle/rectanglePerimeter.js)  
 
 ---
 
