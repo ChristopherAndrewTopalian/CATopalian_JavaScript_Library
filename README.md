@@ -380,6 +380,8 @@ Index
 
 [rectangleArea](src/js/geometry/area/rectangle/rectangleArea.js)  
 
+[rectanglePerimeter](src/js/geometry/area/rectangle/rectanglePerimeter.js)  
+
 ---
 
 ### How to Download this App
