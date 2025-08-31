@@ -19,6 +19,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 * [Array](src/js/array/array.md)  
 
+* [Geometry](src/js/geometry/geometry.md)  
+
 ---
 
 # Date
@@ -369,6 +371,14 @@ Index
 [arraySortDescending](src/js/array/arraySortDescending.js)  
 
 [arrayUnique](src/js/array/arrayUnique.js)  
+
+---
+
+# Geometry
+
+## Rectangle
+
+[rectangleArea](src/js/geometry/area/rectangle/rectangleArea.js)  
 
 ---
 
