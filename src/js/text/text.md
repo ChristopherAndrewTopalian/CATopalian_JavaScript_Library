@@ -2,6 +2,8 @@
 
 [NLP](nlp/nlp.md)  
 
+[logChars](logChars.js)
+
 [randomMessage](random_text/randomMessage.js)  
 
 [getSelectedText](getSelectedText.js)  

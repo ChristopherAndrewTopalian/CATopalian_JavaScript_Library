@@ -226,6 +226,8 @@ Index
 
 [getVocabularyAndSize](src/js/text/getVocabularyAndSize.js)
 
+[logChars](src/js/text/logChars.js)
+
 [removePunctuation](src/js/text/removePunctuation.js)
 
 [capitalizeWords](src/js/text/capitalizeWords.js)
