@@ -392,6 +392,8 @@ Index
 
 ---
 
+[circleAreaFromCircumference](src/js/geometry/circle/circleAreaFromCircumference.js)  
+
 ![circumference](src/js/geometry/circle/textures/circumference.svg)  
 
 ![diameter](src/js/geometry/circle/textures/diameter.svg)  

@@ -10,6 +10,16 @@
 
 [circleAreaFromRadius](circle/circleAreaFromRadius.js)  
 
+![radius](circle/textures/radius.svg)  
+
+---
+
+[circleAreaFromCircumference](circle/circleAreaFromCircumference.js)  
+
+![circumference](circle/textures/circumference.svg)  
+
+![diameter](circle/textures/diameter.svg)  
+
 ---
 
 //----//
