@@ -1,16 +1,21 @@
-# Geometry
+// circleAreaFromRadius.js
 
-## Rectangle
+function circleAreaFromRadius(a)
+{
+    let area = Math.PI * Math.pow(a, 2);
 
-[rectangleArea](rectangle/rectangleArea.js)  
+    return area;
+}
 
-[rectanglePerimeter](rectangle/rectanglePerimeter.js)  
+//----//
 
-# Circle
+console.log(circleAreaFromRadius(30.25));
 
-[circleAreaFromRadius](circle/circleAreaFromRadius.js)  
+//----//
 
----
+/*
+2874.75362757551
+*/
 
 //----//
 
