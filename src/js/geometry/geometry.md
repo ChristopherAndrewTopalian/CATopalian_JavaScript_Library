@@ -12,8 +12,6 @@
 
 ![radius](circle/textures/radius.svg)  
 
----
-
 [circleAreaFromCircumference](circle/circleAreaFromCircumference.js)  
 
 ![circumference](circle/textures/circumference.svg)  

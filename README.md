@@ -390,8 +390,6 @@ Index
 
 ![radius](src/js/geometry/circle/textures/radius.svg)  
 
----
-
 [circleAreaFromCircumference](src/js/geometry/circle/circleAreaFromCircumference.js)  
 
 ![circumference](src/js/geometry/circle/textures/circumference.svg)  
