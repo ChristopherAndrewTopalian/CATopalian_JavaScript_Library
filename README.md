@@ -388,7 +388,7 @@ Index
 
 [circleAreaFromRadius](src/js/geometry/circle/circleAreaFromRadius.js)  
 
-![radius](src/js/geometry/circle/textures/radius.png)  
+![radius](src/js/geometry/circle/textures/radius.svg)  
 
 ---
 
