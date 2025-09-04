@@ -384,15 +384,21 @@ Index
 
 [rectanglePerimeter](src/js/geometry/rectangle/rectanglePerimeter.js)  
 
+---
+
 # Circle
 
 [circleAreaFromRadius](src/js/geometry/circle/circleAreaFromRadius.js)  
 
 ![radius](src/js/geometry/circle/textures/radius.svg)  
 
+---
+
 [circleAreaFromCircumference](src/js/geometry/circle/circleAreaFromCircumference.js)  
 
 ![circumference](src/js/geometry/circle/textures/circumference.svg)  
+
+---
 
 [circleAreaFromDiameter](src/js/geometry/circle/circleAreaFromDiameter.js)  
 
