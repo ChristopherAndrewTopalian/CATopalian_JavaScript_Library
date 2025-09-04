@@ -18,6 +18,8 @@
 
 ![circumference](circle/textures/circumference.svg)  
 
+[circleAreaFromDiameter](circle/circleAreaFromDiameter.js)  
+
 ![diameter](circle/textures/diameter.svg)  
 
 ---
