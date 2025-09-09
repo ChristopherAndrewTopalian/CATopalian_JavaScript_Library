@@ -1,10 +1,12 @@
-# Array of Objects
-
-## Filter
+## Filter Array of Objects
 
 ### [filterBeforeDateAOO](filterBeforeDateAOO.js)  
 
 ### [filterAfterDateAOO](filterAfterDateAOO.js)  
+
+### [filterBetweenDatesAOO](filterBetweenDatesAOO.js)  
+
+### [filterOutsideDatesAOO](filterOutsideDatesAOO.js)  
 
 ---
 

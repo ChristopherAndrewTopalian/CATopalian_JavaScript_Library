@@ -417,6 +417,10 @@ Index
 
 ### [filterAfterDateAOO](src/js/filter/array_of_objects/filterAfterDateAOO.js)  
 
+### [filterBetweenDatesAOO](src/js/filter/array_of_objects/filterBetweenDatesAOO.js)  
+
+### [filterOutsideDatesAOO](src/js/filter/array_of_objects/filterOutsideDatesAOO.js)  
+
 ---
 
 ### How to Download this App
