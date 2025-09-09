@@ -2,11 +2,11 @@
 
 function getDateLong()
 {
-    let currentDateTime = new Date();
+    let dateTime = new Date();
 
-    let year = currentDateTime.getFullYear();
+    let year = dateTime.getFullYear();
 
-    let month = currentDateTime.getMonth() + 1;
+    let month = dateTime.getMonth() + 1;
 
     //-//
 
@@ -63,10 +63,10 @@ function getDateLong()
 
     //-//
 
-    let dayOfMonth = currentDateTime.getDate();
+    let dayOfMonth = dateTime.getDate();
 
     // sun is 0, mon is 1
-    let dayOfWeek = currentDateTime.getDay();
+    let dayOfWeek = dateTime.getDay();
 
     //-//
 

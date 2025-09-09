@@ -2,12 +2,13 @@
 
 function getDateLongArray()
 {
-    let currentDateTime = new Date();
+    let dateTime = new Date();
 
-    let year = currentDateTime.getFullYear();
-    let monthIndex = currentDateTime.getMonth();
-    let dayOfMonth = currentDateTime.getDate();
-    let dayOfWeekIndex = currentDateTime.getDay(); // 0 = Sunday
+    let year = dateTime.getFullYear();
+    let monthIndex = dateTime.getMonth();
+    let dayOfMonth = dateTime.getDate();
+    // 0 = Sunday
+    let dayOfWeekIndex = dateTime.getDay();
 
     //-//
 

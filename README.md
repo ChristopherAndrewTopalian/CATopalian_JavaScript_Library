@@ -406,6 +406,19 @@ Index
 
 ---
 
+## Filter
+
+## Array of Objects
+
+### [filter_array_of_objects](src/js/filter/array_of_objects/filter_array_of_objects.md)  
+Index
+
+### [filterBeforeDateAOO](src/js/filter/array_of_objects/filterBeforeDateAOO.js)  
+
+### [filterAfterDateAOO](src/js/filter/array_of_objects/filterAfterDateAOO.js)  
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
