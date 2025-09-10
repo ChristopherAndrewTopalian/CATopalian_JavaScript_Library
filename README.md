@@ -19,6 +19,8 @@ A pure functional JavaScript Library that includes many useful functions.
 
 * [Array](src/js/array/array.md)  
 
+* [Filter](src/js/filter/array_of_objects/filter_array_of_objects.md)  
+
 * [Geometry](src/js/geometry/geometry.md)  
 
 ---
