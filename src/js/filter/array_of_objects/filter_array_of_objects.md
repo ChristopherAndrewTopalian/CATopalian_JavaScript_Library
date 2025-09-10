@@ -8,6 +8,30 @@
 
 ### [filterOutsideDatesAOO](filterOutsideDatesAOO.js)  
 
+### [filterByDateAOO](filterByDateAOO.js)  
+
+### [filterByDateTimeAOO](filterByDateTimeAOO.js)  
+
+### [filterByDayAOO](filterByDayAOO.js)  
+
+### [filterByMonthAOO](filterByMonthAOO.js)  
+
+### [filterByMonthDayAOO](filterByMonthDayAOO.js)  
+
+### [filterByNameAOO](filterByNameAOO.js)  
+
+### [filterByNameCSAOO](filterByNameCSAOO.js)  
+
+### [filterByYearAOO](filterByYearAOO.js)  
+
+### [filterByYearMonthAOO](filterByYearMonthAOO.js)  
+
+### [filterShowAllAOO](filterShowAllAOO.js)  
+
+### [filterShowAllDatesAOO](filterShowAllDatesAOO.js)  
+
+### [filterShowAllNamesAOO](filterShowAllNamesAOO.js)  
+
 ---
 
 //----//
