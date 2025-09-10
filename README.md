@@ -443,6 +443,8 @@ Index
 
 ### [filterShowAllDatesAOO](src/js/filter/array_of_objects/filterShowAllDatesAOO.js)  
 
+### [filterShowAllNamesAOO](src/js/filter/array_of_objects/filterShowAllNamesAOO.js)  
+
 ---
 
 ### How to Download this App
