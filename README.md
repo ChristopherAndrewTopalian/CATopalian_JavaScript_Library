@@ -433,6 +433,8 @@ Index
 
 ### [filterByNameAOO](src/js/filter/array_of_objects/filterByNameAOO.js)  
 
+### [filterByNameCSAOO](src/js/filter/array_of_objects/filterByNameCSAOO.js)  
+
 ---
 
 ### How to Download this App
