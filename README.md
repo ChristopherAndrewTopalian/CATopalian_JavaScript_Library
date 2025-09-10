@@ -437,6 +437,8 @@ Index
 
 ### [filterByYearAOO](src/js/filter/array_of_objects/filterByYearAOO.js)  
 
+### [filterByYearMonthAOO](src/js/filter/array_of_objects/filterByYearMonthAOO.js)  
+
 ---
 
 ### How to Download this App
