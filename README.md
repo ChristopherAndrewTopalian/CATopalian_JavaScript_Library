@@ -441,6 +441,8 @@ Index
 
 ### [filterShowAllAOO](src/js/filter/array_of_objects/filterShowAllAOO.js)  
 
+### [filterShowAllDatesAOO](src/js/filter/array_of_objects/filterShowAllDatesAOO.js)  
+
 ---
 
 ### How to Download this App
