@@ -423,6 +423,8 @@ Index
 
 ### [filterByDateAOO](src/js/filter/array_of_objects/filterByDateAOO.js)  
 
+### [filterByDateTimeAOO](src/js/filter/array_of_objects/filterByDateTimeAOO.js)  
+
 ---
 
 ### How to Download this App
