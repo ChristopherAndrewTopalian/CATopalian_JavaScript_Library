@@ -421,6 +421,8 @@ Index
 
 ### [filterOutsideDatesAOO](src/js/filter/array_of_objects/filterOutsideDatesAOO.js)  
 
+### [filterByDateAOO](src/js/filter/array_of_objects/filterByDateAOO.js)  
+
 ---
 
 ### How to Download this App
