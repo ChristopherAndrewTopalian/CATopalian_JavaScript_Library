@@ -431,6 +431,8 @@ Index
 
 ### [filterByMonthDayAOO](src/js/filter/array_of_objects/filterByMonthDayAOO.js)  
 
+### [filterByNameAOO](src/js/filter/array_of_objects/filterByNameAOO.js)  
+
 ---
 
 ### How to Download this App
