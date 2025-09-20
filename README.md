@@ -358,6 +358,8 @@ Index
 
 [arrayShowValues](src/js/array/arrayShowValues.js)  
 
+[arrayShowAllValues](src/js/array/arrayShowAllValues.js)  
+
 [arraySum](src/js/array/arraySum.js)  
 
 [arrayProduct](src/js/array/arrayProduct.js)  

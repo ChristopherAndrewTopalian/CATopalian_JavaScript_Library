@@ -10,6 +10,8 @@
 
 [arrayShowValues](arrayShowValues.js)  
 
+[arrayShowAllValues](arrayShowAllValues.js)  
+
 [arraySum](arraySum.js)  
 
 [arrayProduct](arrayProduct.js)  
