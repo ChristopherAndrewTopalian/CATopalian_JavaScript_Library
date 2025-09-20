@@ -356,6 +356,8 @@ Index
 
 [arrayShowKeys](src/js/array/arrayShowKeys.js)  
 
+[arrayShowValues](src/js/array/arrayShowValues.js)  
+
 [arraySum](src/js/array/arraySum.js)  
 
 [arrayProduct](src/js/array/arrayProduct.js)  

@@ -8,6 +8,8 @@
 
 [arrayShowKeys](arrayShowKeys.js)  
 
+[arrayShowValues](arrayShowValues.js)  
+
 [arraySum](arraySum.js)  
 
 [arrayProduct](arrayProduct.js)  
