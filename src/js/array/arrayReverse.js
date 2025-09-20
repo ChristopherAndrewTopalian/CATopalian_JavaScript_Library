@@ -6,7 +6,7 @@
 let numbers = [1, 2, 3, 4, 5];
 
 // function to reverse an array using the built-in methods
-function reverseArray(whichArray)
+function arrayReverse(whichArray)
 {
     // .slice() creates a shallow copy of the array
     // .reverse() then reverses the copy, leaving the original array unchanged
@@ -19,7 +19,7 @@ function reverseArray(whichArray)
 //----//
 
 // call the function and print the reversed array
-console.log(reverseArray(numbers));
+console.log(arrayReverse(numbers));
 
 //----//
 

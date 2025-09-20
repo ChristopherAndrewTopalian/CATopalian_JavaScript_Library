@@ -354,6 +354,8 @@ Index
 
 [shuffleArray](src/js/array/shuffleArray.js)  
 
+[arrayShowKeys](src/js/array/arrayShowKeys.js)  
+
 [arraySum](src/js/array/arraySum.js)  
 
 [arrayProduct](src/js/array/arrayProduct.js)  

@@ -6,6 +6,8 @@
 
 [shuffleArray](shuffleArray.js)  
 
+[arrayShowKeys](arrayShowKeys.js)  
+
 [arraySum](arraySum.js)  
 
 [arrayProduct](arrayProduct.js)  
