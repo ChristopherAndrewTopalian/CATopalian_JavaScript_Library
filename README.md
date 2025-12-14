@@ -457,7 +457,7 @@ Index
 
 ## Find
 
-### [filterShowAllNamesAOO](src/js/filter/array_of_objects/find/findNameAOO.js)  
+### [findNameAOO](src/js/filter/array_of_objects/find/findNameAOO.js)  
 
 ---
 
