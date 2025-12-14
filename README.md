@@ -382,6 +382,10 @@ Index
 
 [arraySortDescending](src/js/array/arraySortDescending.js)  
 
+[arraySortCopyAscending](src/js/array/arraySortCopyAscending.js)  
+
+[arraySortCopyDescending](src/js/array/arraySortCopyDescending.js)  
+
 [arrayUnique](src/js/array/arrayUnique.js)  
 
 ---
