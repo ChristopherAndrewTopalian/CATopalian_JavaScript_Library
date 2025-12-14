@@ -455,6 +455,11 @@ Index
 
 ---
 
+# Filter - Array
+### [getActiveSignals](src/js/filter/array/getActiveSignals.js)  
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
