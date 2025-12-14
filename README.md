@@ -348,6 +348,8 @@ Index
 [array](src/js/array/array.md)  
 Index
 
+[arrayPushLimit](src/js/array/arrayPushLimit.js)  
+
 [isInArray](src/js/array/isInArray.js)  
 
 [randomArrayElement](src/js/array/randomArrayElement.js)  
