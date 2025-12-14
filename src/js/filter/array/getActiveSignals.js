@@ -14,7 +14,7 @@ function getActiveSignals(signalList)
 
 // example
 
-let rawData = [1, 0, 1, 0, 0, 1];
+let rawData = [1, 0, 1, 0, 0, 1, 0, 1];
 
 let cleanData = getActiveSignals(rawData);
 
@@ -23,7 +23,7 @@ console.log(cleanData);
 //----//
 
 /*
-[1, 1, 1]
+[1, 1, 1, 1]
 
 Filter for Removing Unwanted Data:
 We use .filter() to create a new array containing only items that pass a test.
