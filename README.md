@@ -455,6 +455,12 @@ Index
 
 ---
 
+## Find
+
+### [filterShowAllNamesAOO](src/js/filter/array_of_objects/find/findNameAOO.js)  
+
+---
+
 # Filter - Array
 ### [getActiveSignals](src/js/filter/array/getActiveSignals.js)  
 
