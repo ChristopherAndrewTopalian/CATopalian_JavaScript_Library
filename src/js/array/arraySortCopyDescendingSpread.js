@@ -1,6 +1,6 @@
-// arraySortCopyDescending.js
+// arraySortCopyDescendingSpread.js
 
-function arraySortCopyDescending(whichArray) 
+function arraySortCopyDescendingSpread(whichArray) 
 {
     // create a copy so we don't mutate original data
     let copy = [...whichArray]; 
@@ -19,7 +19,7 @@ function arraySortCopyDescending(whichArray)
 
 let levels = [1, 100, 75, 20, 5];
 
-let sorted = arraySortCopyDescending(levels); 
+let sorted = arraySortCopyDescendingSpread(levels); 
 
 console.log(sorted); 
 
